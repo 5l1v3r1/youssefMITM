@@ -31,7 +31,7 @@ def options():
         os.system("ettercap -TqM ARP:REMOTE //"+host+"/ | grep 'HTTP : ' ")
 
     elif option == 0:
-        print("Thank you.Goodbye")
+        print("Thank you to try my script.Goodbye")
         quit()
 
     else:
